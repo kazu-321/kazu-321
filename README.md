@@ -3,7 +3,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/kzs321?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/kazu-321">
-    <img height="20" src="https://img.shields.io/github/followers/kazu-321?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/kazu-321?label=follow&logo=github&style=flat" />　982
   </a>
   <a href="http://qiita.com/kzs321kzs">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kzs321kzs/posts.svg" />
