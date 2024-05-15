@@ -2,9 +2,6 @@
   <a href="http://twitter.com/kzs321">
     <img height="20" src="https://img.shields.io/twitter/follow/kzs321?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="http://twitter.com/kzs321">
-    <img height="20" src="https://img.shields.io/twitter/followers/kzs321?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/kazu-321">
     <img height="20" src="https://img.shields.io/github/followers/kazu-321?label=follow&logo=github&style=flat" />
   </a>
@@ -27,3 +24,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=kazu-321)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=kzs321&v=2)
+
+
+[![typograssy](https://typograssy.deno.dev/api?text=かずkazu-321kzs321)](https://github.com/kawarimidoll/typograssy)
