@@ -2,6 +2,9 @@
   <a href="http://twitter.com/kzs321">
     <img height="20" src="https://img.shields.io/twitter/follow/kzs321?label=Twitter&logo=twitter&style=flat" />
   </a>
+  <a href="http://twitter.com/kzs321">
+    <img height="20" src="https://img.shields.io/twitter/followers/kzs321?label=Twitter&logo=twitter&style=flat" />
+  </a>
   <a href="https://github.com/kazu-321">
     <img height="20" src="https://img.shields.io/github/followers/kazu-321?label=follow&logo=github&style=flat" />
   </a>
