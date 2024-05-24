@@ -25,5 +25,3 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=kzs321&v=2)
 ![typograssy](https://typograssy.deno.dev/api?text=かずkazu-321kzs321)
 
-<iframe src="index.html"></iframe>
-![](index.html)
