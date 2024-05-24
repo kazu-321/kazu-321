@@ -24,14 +24,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=kazu-321)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=kzs321&v=2)
 [![typograssy](https://typograssy.deno.dev/api?text=かずkazu-321kzs321)](https://github.com/kawarimidoll/typograssy)
-
-<button id="btn">???</button>
-<p id="p">aaa</p>
-<script>
-  
-function onbtn() {
-    document.getElementById('p').text = "bbb";
-}
-
-document.getElementById('btn').addEventListener('click', onbtn);
-</script>
