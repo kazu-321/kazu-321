@@ -13,7 +13,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cppdiscord,bots,git,github,linux,md,py,ros,ubuntu,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,discord,bots,git,github,linux,md,py,ros,ubuntu,twitter)](https://skillicons.dev)
 
 
 ![](profile-3d-contrib/profile-season-animate.svg)
