@@ -24,5 +24,4 @@
 ![](https://raw.githubusercontent.com/kazu-321/kazu-321/main/profile-summary-card-output/dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/kazu-321/kazu-321/main/profile-summary-card-output/dark/4-productive-time.svg)
 ![](https://github-profile-trophy.vercel.app/?username=kazu-321)
-![typograssy](https://typograssy.deno.dev/api?text=かずkazu-321kzs321)
 
